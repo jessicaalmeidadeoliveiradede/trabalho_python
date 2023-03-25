@@ -1,1 +1,1 @@
-# trabalho_python
+# estrutura em c
